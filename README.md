@@ -1,0 +1,4 @@
+autosqlmap
+==========
+
+a little script 
