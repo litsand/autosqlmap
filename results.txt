@@ -1,0 +1,7 @@
+test.xml
+1line has a wrong field count
+map.xml
+66line has a wrong field number
+59line has a wrong field count
+155line has a wrong field number
+135line has a wrong field count
